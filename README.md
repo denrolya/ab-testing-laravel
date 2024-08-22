@@ -1,6 +1,4 @@
-<img src="https://brokerchooser.com/images/brokerchooser-logo.png" alt="BrokerChooser logo">
-
-## BrokerChooser Backend Developer Homework
+## Backend Developer Homework
 
 Congratulations on getting to this part of our interview process!
 
@@ -28,9 +26,6 @@ Requirements:
 
 After implementing the above system, create an A/B test (you can use a migration to start it) and demonstrate the usage
 of the system by changing some behaviour of the site (that is visible to the visitors) based on the A/B test variant.
-
-Disclaimer: BrokerChooser already has a more robust version of this A/B testing system implemented, we do not expect you
-to work for us before we hire you. :)
 
 # Solution
 I aimed for:
